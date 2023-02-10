@@ -1,0 +1,44 @@
+Miracle Ibe
+Port-harcourt Nigeria
+Rivers State
+chikimiracle2000@gmail.com
++2349154498129
+
+Objective:
+To obtain a front-end development internship that utilizes my technical skills and passion for creating engaging user experiences.
+
+Education:
+
+Bachelor's Degree in Chemical Engineering, Federal University Of Owerri(FUTO)
+Relevant coursework: Web Development, User Experience Design, Data Structures and Algorithms, Database Systems
+
+Skills:
+
+Strong proficiency in HTML, CSS, and JavaScript
+Familiarity with React AND Svelte frameworks
+Knowledge of responsive web design principles
+Ability to create visually appealing and user-friendly interfaces
+Understanding of accessibility and web standards
+Strong problem-solving and critical thinking skills
+Excellent verbal and written communication skills
+
+
+Projects:
+
+Personal Portfolio Website, www.nerdkidchiki.netlify.app
+
+Designed and developed a personal portfolio website using React and CSS
+Implemented responsive design to ensure the website looks great on all devices
+Incorporated animations to enhance the user experience
+
+
+Online Recipe Book, www.chikichow.netlify.app
+
+Built an online recipe book using HTML, CSS, and React
+Implemented search functionality to allow users to easily find recipes
+Designed an attractive user interface that is easy to navigate
+
+
+References:
+Available upon request.
+

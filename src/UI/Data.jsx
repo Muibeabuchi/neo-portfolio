@@ -57,7 +57,7 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Front End Developer</h3>
         <p className="home__description">
-         I'm Web developer with a passion for creating visually appealing, user-friendly websites and web applications using the latest technology and design trends.
+         I'm a Web developer with a passion for creating visually appealing, user-friendly websites and web applications using the latest technology and design trends.
         </p>
 
         <a href="#Contact"  className="button button--flex">

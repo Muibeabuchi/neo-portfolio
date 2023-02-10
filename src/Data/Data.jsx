@@ -13,21 +13,21 @@ export const TestimonialsData = [
       image: Image1,
       title: "Justice DA Barber",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Miracle Ibe has a keen eye for design and a deep understanding of accessibility best practices. His attention to detail and commitment to creating accessible websites sets him apart as a front-end developer. I would highly recommend Miracle Ibe for any front-end development role."
     },
     {
       id: 2,
       image: Image2,
       title: "Pastor Emmanuel Shalom",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+      "I have been impressed with Miracle's ability to collaborate and communicate with the rest of the team. He works seamlessly with designers and back-end developers to create a seamless user experience. Miracle's passion for front-end development is evident in the high-quality work he produce. I highly recommend Miracle for any front-end development role."
     },
     {
       id: 3,
       image: Image3,
       title: "Keis El",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+      "I had the pleasure of working with Miracle on a project, and his skills as a front-end developer truly shine. He has a strong understanding of React and always produce high-quality, visually appealing interfaces. I would highly recommend Miracle for any front-end development role."
     },
   ];
 
