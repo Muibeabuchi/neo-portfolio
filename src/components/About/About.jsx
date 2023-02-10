@@ -1,5 +1,5 @@
 import './About.css';
-import AboutImage from '../../assets/assets/about.jpg';
+import AboutImage from '../../assets/assets/chiki.jpg';
 import CV from '../../assets/assets/John-Cv.pdf';
 import Info from '../../UI/Info';
 
