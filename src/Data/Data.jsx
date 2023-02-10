@@ -1,26 +1,26 @@
-import Image1 from '../assets/assets/testimonial1.png';
-import Image2 from '../assets/assets/testimonial2.png';
-import Image3 from '../assets/assets/testimonial3.png';
+import Image1 from '../assets/assets/placeholder1.jpg';
+import Image2 from '../assets/assets/placeholder2.jpg';
+import Image3 from '../assets/assets/placeholder3.jpg';
 
 export const TestimonialsData = [
     {
       id: 1,
       image: Image1,
-      title: "Jhon Doe",
+      title: "Justice DA Barber",
       description:
         "A really good job, all aspects of the project were followed step by step and with good results.",
     },
     {
       id: 2,
       image: Image2,
-      title: "Harry Clinton",
+      title: "Pastor Emmanuel Shalom",
       description:
         "A really good job, all aspects of the project were followed step by step and with good results.",
     },
     {
       id: 3,
       image: Image3,
-      title: "Sara Cill",
+      title: "Keis El",
       description:
         "A really good job, all aspects of the project were followed step by step and with good results.",
     },
