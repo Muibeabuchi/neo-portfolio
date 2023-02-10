@@ -23,12 +23,12 @@ import List from '../../UI/List';
                 <div className={toggle ?'nav__menu show-menu' :"nav__menu"}>
                     <ul className="nav__list grid">
 
-                        <List link='Home' iconname='estate'/>
-                        <List link='About' iconname='user'/>
-                        <List link='Skills' iconname='file-alt'/>
-                        <List link='Services' iconname='briefcase-alt'/>
-                        <List link='Portfolio' iconname='scenery'/>
-                        <List link='Contact' iconname='message'/>
+                        <List link='Home' iconname='estate' activeNav={activeNav} setActiveNav={setActiveNav}/>
+                        <List link='About' iconname='user' activeNav={activeNav} setActiveNav={setActiveNav}/>
+                        <List link='Skills' iconname='file-alt' activeNav={activeNav} setActiveNav={setActiveNav}/>
+                        <List link='Services' iconname='briefcase-alt' activeNav={activeNav} setActiveNav={setActiveNav}/>
+                        <List link='Portfolio' iconname='scenery' activeNav={activeNav} setActiveNav={setActiveNav}/>
+                        <List link='Contact' iconname='message' activeNav={activeNav} setActiveNav={setActiveNav}/>
                     </ul>
 
                     <i className="uil uil-times nav__close" onClick={()=>setToggle(prev=> !prev)}></i>
